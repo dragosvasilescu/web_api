@@ -24,7 +24,7 @@ namespace webApi2
         }
     }
 
-    // Extension method used to add the middleware to the HTTP request pipeline.
+    // Edit this comment
     public static class MyMiddlewareExtensions
     {
         public static IApplicationBuilder UseMyMiddleware(this IApplicationBuilder builder)
