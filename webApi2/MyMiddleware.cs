@@ -25,6 +25,7 @@ namespace webApi2
     }
 
     // Edit this comment 12 14
+    //This is a development change
     public static class MyMiddlewareExtensions
     {
         public static IApplicationBuilder UseMyMiddleware(this IApplicationBuilder builder)
