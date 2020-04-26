@@ -39,6 +39,7 @@ namespace webApi2
     //new changes on development 5.0
     //new change only on de velopment
     //new master change
+    //new master change 1.0
 
     public static class MyMiddlewareExtensions
     {
