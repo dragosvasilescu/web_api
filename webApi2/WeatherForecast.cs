@@ -2,6 +2,7 @@ using System;
 
 namespace webApi2
 {
+    //WeatherForecast
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
